@@ -1,6 +1,9 @@
 _repo: Coleridge-s-Ancient-Mariner-and-Select-Poems_11101
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Rime of the ancient mariner
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coleridge, Samuel Taylor
@@ -13,6 +16,8 @@ creator:
 description: Coleridge's haunting ballad of the sailor who recounts the tragic consequences
   of his killing of an albatross to a traveler en route to his wedding, and other
   poems. -Amazon.com.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11101#Coleridge-s-Ancient-Mariner-and-Select-Poems
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
